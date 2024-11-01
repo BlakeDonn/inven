@@ -1,0 +1,9 @@
+output/
+debug/
+screenshots/
+trash/
+cropped_screenshots/
+excel_generation.log
+screenshot_automation.log
+unmatched_titles.log
+source.html

@@ -1,0 +1,288 @@
+Armor Name,Type,Rarity
+Beast Gloves,Hands,Common
+Beast Hood,Head,Common
+Canvas Gloves,Hands,Common
+Canvas Hat,Head,Common
+Chainmail,Chest,Common
+Chainmail Leggings,Legs,Common
+Cloth Pants,Legs,Common
+Cloth Shoes,Feet,Common
+Cloth Vestment,Chest,Common
+Common Circlet,Head,Common
+Common Gloves,Hands,Common
+Felt Gloves,Hands,Common
+Felt Hat,Head,Common
+Forged Gauntlets,Hands,Common
+Forged Helmet,Head,Common
+Forged Sabatons,Feet,Common
+Forgotten Tricorne,Head,Common
+Hide Gloves,Hands,Common
+Hide Mask,Head,Common
+Iron Gauntlets,Hands,Common
+Iron Helmet,Head,Common
+Iron Sabatons,Feet,Common
+Lamellar Boots,Feet,Common
+Lamellar Trousers,Legs,Common
+Lamellar Tunic,Chest,Common
+Leather Boots,Feet,Common
+Leather Tricorne,Head,Common
+Leather Trousers,Legs,Common
+Leather Tunic,Chest,Common
+Magithread Leggings,Legs,Common
+Magithread Pants,Legs,Common
+Magithread Robes,Chest,Common
+Magithread Shoes,Feet,Common
+Manasteel Chainmail,Chest,Common
+Mystic Hat,Head,Common
+Reforged Cuirass,Chest,Common
+Reforged Greaves,Legs,Common
+Reinforced Boots,Feet,Common
+Reinforced Chainmail,Chest,Common
+Reinforced Leggings,Legs,Common
+Reinforced Pants,Legs,Common
+Reinforced Raiment,Chest,Common
+Reinforced Shoes,Feet,Common
+Reinforced Trousers,Legs,Common
+Reinforced Tunic,Chest,Common
+Ritual Gloves,Hands,Common
+Ritual Hat,Head,Common
+Runed Gloves,Hands,Common
+Runed Hat,Head,Common
+Silk Gloves,Hands,Common
+Silk Hood,Head,Common
+Silk Pants,Legs,Common
+Silk Raiment,Chest,Common
+Silk Shoes,Feet,Common
+Sparring Gauntlets,Hands,Common
+Sparring Helmet,Head,Common
+Sparring Sabatons,Feet,Common
+Steel Gauntlets,Hands,Common
+Steel Helmet,Head,Common
+Steel Sabatons,Feet,Common
+Studded Leather Boots,Feet,Common
+Studded Leather Trousers,Legs,Common
+Studded Leather Tunic,Chest,Common
+Acolyte Gloves,Hands,Uncommon
+Acolyte Hood,Head,Uncommon
+Acolyte Pants,Legs,Uncommon
+Acolyte Shoes,Feet,Uncommon
+Armored Suede Boots,Feet,Uncommon
+Armored Suede Bracers,Hands,Uncommon
+Armored Suede Tricorne,Head,Uncommon
+Armored Suede Trousers,Legs,Uncommon
+Armored Suede Tunic,Chest,Uncommon
+Attendant Pants,Legs,Uncommon
+Attendant Robe,Chest,Uncommon
+Attendant Shoes,Feet,Uncommon
+Augmented Leather Boots,Feet,Uncommon
+Augmented Leather Breeches,Legs,Uncommon
+Augmented Leather Gloves,Hands,Uncommon
+Augmented Leather Headgear,Head,Uncommon
+Augmented Leather Jerkin,Chest,Uncommon
+Blackened Plate Breastplate,Chest,Uncommon
+Blackened Plate Gauntlets,Hands,Uncommon
+Blackened Plate Greaves,Legs,Uncommon
+Blackened Plate Helmet,Head,Uncommon
+Blackened Plate Sabatons,Feet,Uncommon
+Cloak of Accuracy,Cloak,Uncommon
+Cloak of Battle,Cloak,Uncommon
+Fortune Telling Cowl,Head,Uncommon
+Fortune Telling Gloves,Hands,Uncommon
+Fortune Telling Pants,Legs,Uncommon
+Fortune Telling Raiment,Chest,Uncommon
+Fortune Telling Shoes,Feet,Uncommon
+Incantation Garb,Chest,Uncommon
+Incantation Gloves,Hands,Uncommon
+Incantation Hat,Head,Uncommon
+Incantation Pants,Legs,Uncommon
+Incantation Shoes,Feet,Uncommon
+Intricate Leather Boots,Feet,Uncommon
+Intricate Leather Gloves,Hands,Uncommon
+Intricate Leather Hood,Head,Uncommon
+Intricate Leather Trousers,Legs,Uncommon
+Intricate Leather Tunic,Chest,Uncommon
+Ironclad Plate Cuirass,Chest,Uncommon
+Ironclad Plate Gauntlets,Hands,Uncommon
+Ironclad Plate Greaves,Legs,Uncommon
+Ironclad Plate Sabatons,Feet,Uncommon
+Ironclad Plate Visor,Head,Uncommon
+Layered Iron Boots,Feet,Uncommon
+Layered Iron Gambeson,Chest,Uncommon
+Layered Iron Gauntlets,Hands,Uncommon
+Layered Iron Greaves,Legs,Uncommon
+Layered Iron Helm,Head,Uncommon
+Mantle of Casting,Cloak,Uncommon
+Ornate Battle Chest Plate,Chest,Uncommon
+Ornate Battle Gauntlets,Hands,Uncommon
+Ornate Battle Helm,Head,Uncommon
+Ornate Battle Leggings,Legs,Uncommon
+Ornate Battle Sabatons,Feet,Uncommon
+Prayer Gloves,Hands,Uncommon
+Prayer Hood,Head,Uncommon
+Prayer Vestments,Chest,Uncommon
+Reinforced Buckskin Boots,Feet,Uncommon
+Reinforced Buckskin Gloves,Hands,Uncommon
+Reinforced Buckskin Jerkin,Chest,Uncommon
+Reinforced Buckskin Tricorne,Head,Uncommon
+Reinforced Buckskin Trousers,Legs,Uncommon
+Shroud of Striking,Cloak,Uncommon
+Alacritous Invoker Gloves,Hands,Rare
+Alacritous Invoker Hood,Head,Rare
+Alacritous Invoker Overcoat,Chest,Rare
+Alacritous Invoker Pants,Legs,Rare
+Alacritous Invoker Shoes,Feet,Rare
+Berserker's Shroud,Cloak,Rare
+Boots of the Resistance,Feet,Rare
+Deadeye's Cloak,Cloak,Rare
+Decorated Champion Armor,Chest,Rare
+Decorated Champion Boots,Feet,Rare
+Decorated Champion Crown,Head,Rare
+Decorated Champion Gauntlets,Hands,Rare
+Decorated Champion Greaves,Legs,Rare
+Duskblood Boots,Feet,Rare
+Duskblood Garb,Chest,Rare
+Duskblood Gloves,Hands,Rare
+Duskblood Mask,Head,Rare
+Duskblood Trousers,Legs,Rare
+Elusive Hexweaver Drape,Chest,Rare
+Elusive Hexweaver Gloves,Hands,Rare
+Elusive Hexweaver Hat,Head,Rare
+Elusive Hexweaver Pants,Legs,Rare
+Elusive Hexweaver Shoes,Feet,Rare
+Feathered Drakeskin Boots,Feet,Rare
+Feathered Drakeskin Breeches,Legs,Rare
+Feathered Drakeskin Gloves,Hands,Rare
+Feathered Drakeskin Mask,Head,Rare
+Feathered Drakeskin Tunic,Chest,Rare
+Gauntlets of the Resistance,Hands,Rare
+Glade Stalker Boots,Feet,Rare
+Glade Stalker Circlet,Head,Rare
+Glade Stalker Gloves,Hands,Rare
+Glade Stalker Scales,Chest,Rare
+Glade Stalker Trousers,Legs,Rare
+Gloom Guard Gauntlets,Hands,Rare
+Gloom Guard Greaves,Legs,Rare
+Gloom Guard Plate Armor,Chest,Rare
+Gloom Guard Sabatons,Feet,Rare
+Gloom Guard Winged Helmet,Head,Rare
+Gloves of the Resistance,Hands,Rare
+Greaves of the Resistance,Legs,Rare
+Handguards of the Resistance,Hands,Rare
+Hood of the Resistance,Head,Rare
+Mask of the Resistance,Head,Rare
+Nature's End Cowl,Head,Rare
+Nature's End Gloves,Hands,Rare
+Nature's End Pants,Legs,Rare
+Nature's End Raiment,Chest,Rare
+Nature's End Shoes,Feet,Rare
+Nightslayer's Mantle,Cloak,Rare
+Pants of the Resistance,Legs,Rare
+Permafrost Gloves,Hands,Rare
+Permafrost Hood,Head,Rare
+Permafrost Pants,Legs,Rare
+Permafrost Shoes,Feet,Rare
+Permafrost Vestment,Chest,Rare
+Plate Armor of the Resistance,Chest,Rare
+Resolute Crusader Armor,Chest,Rare
+Resolute Crusader Gauntlets,Hands,Rare
+Resolute Crusader Greaves,Legs,Rare
+Resolute Crusader Helmet,Head,Rare
+Resolute Crusader Sabatons,Feet,Rare
+Robes of the Resistance,Chest,Rare
+Ruthless Enforcer Chest Plate,Chest,Rare
+Ruthless Enforcer Gauntlets,Hands,Rare
+Ruthless Enforcer Helmet,Head,Rare
+Ruthless Enforcer Leggings,Legs,Rare
+Ruthless Enforcer Sabatons,Feet,Rare
+Sabatons of the Resistance,Feet,Rare
+Shoes of the Resistance,Feet,Rare
+Sorcerer's Cape,Cloak,Rare
+Soul Mirror Boots,Feet,Rare
+Soul Mirror Carapace,Chest,Rare
+Soul Mirror Hand Guards,Hands,Rare
+Soul Mirror Trousers,Legs,Rare
+Soul Mirror Turban,Head,Rare
+Trousers of the Resistance,Legs,Rare
+Tunic of the Resistance,Chest,Rare
+Visor of the Resistance,Head,Rare
+Warlord's Shroud,Cloak,Rare
+Ancient Tapestry Mantle,Cloak,Epic
+Arcane Shadow Gloves,Hands,Epic
+Arcane Shadow Hat,Head,Epic
+Arcane Shadow Pants,Legs,Epic
+Arcane Shadow Robes,Chest,Epic
+Arcane Shadow Shoes,Feet,Epic
+Ascended Guardian Gloves,Hands,Epic
+Ascended Guardian Hood,Head,Epic
+Ascended Guardian Pants,Legs,Epic
+Ascended Guardian Raiment,Chest,Epic
+Ascended Guardian Shoes,Feet,Epic
+Bile Drenched Veil,Cloak,Epic
+Blessed Templar Cloak,Cloak,Epic
+Blessed Templar Helmet,Head,Epic
+Blessed Templar Plate Mail,Chest,Epic
+Boots of the Executioner,Feet,Epic
+Boots of the Infernal Herald,Feet,Epic
+Breeches of the Executioner,Legs,Epic
+Coat of the Executioner,Chest,Epic
+Divine Justiciar Attire,Chest,Epic
+Divine Justiciar Gloves,Hands,Epic
+Divine Justiciar Mask,Head,Epic
+Divine Justiciar Pants,Legs,Epic
+Divine Justiciar Shoes,Feet,Epic
+Ebon Roar Gauntlets,Hands,Epic
+Ebon Roar Greaves,Legs,Epic
+Ebon Roar Sabatons,Feet,Epic
+Forsaken Embrace,Cloak,Epic
+Gauntlets of the Field General,Hands,Epic
+Gauntlets of the Infernal Herald,Hands,Epic
+Greaves of the Field General,Legs,Epic
+Greaves of the Infernal Herald,Legs,Epic
+Grip of the Executioner,Hands,Epic
+Helm of the Field General,Head,Epic
+Heroic Armor of the Resistance,Chest,Epic
+Heroic Boots of the Resistance,Feet,Epic
+Heroic Boots of the Resistance,Feet,Epic
+Heroic Breeches of the Resistance,Legs,Epic
+Heroic Footguards of the Resistance,Feet,Epic
+Heroic Garb of the Resistance,Chest,Epic
+Heroic Gauntlets of the Resistance,Hands,Epic
+Heroic Gloves of the Resistance,Hands,Epic
+Heroic Greaves of the Resistance,Legs,Epic
+Heroic Grips of the Resistance,Hands,Epic
+Heroic Hat of the Resistance,Head,Epic
+Heroic Helmet of the Resistance,Head,Epic
+Heroic Hood of the Resistance,Head,Epic
+Heroic Mitts of the Resistance,Hands,Epic
+Heroic Pants of the Resistance,Legs,Epic
+Heroic Robes of the Resistance,Chest,Epic
+Heroic Shoes of the Resistance,Feet,Epic
+Heroic Tricorne of the Resistance,Head,Epic
+Heroic Trousers of the Resistance,Legs,Epic
+Heroic Tunic of the Resistance,Chest,Epic
+Phantom Wolf Boots,Feet,Epic
+Phantom Wolf Breeches,Legs,Epic
+Phantom Wolf Gloves,Hands,Epic
+Phantom Wolf Mask,Head,Epic
+Phantom Wolf Tunic,Chest,Epic
+Plate of the Field General,Chest,Epic
+Plate of the Infernal Herald,Chest,Epic
+Sabatons of the Field General,Feet,Epic
+Shadow Harvester Boots,Feet,Epic
+Shadow Harvester Grips,Hands,Epic
+Shadow Harvester Mask,Head,Epic
+Shadow Harvester Trousers,Legs,Epic
+Shadow Harvester Tunic,Chest,Epic
+Shock Commander Gauntlets,Hands,Epic
+Shock Commander Greaves,Legs,Epic
+Shock Commander Plate Armor,Chest,Epic
+Shock Commander Sabatons,Feet,Epic
+Shock Commander Visor,Head,Epic
+Supreme Devotion,Cloak,Epic
+Swirling Essence Gloves,Hands,Epic
+Swirling Essence Hat,Head,Epic
+Swirling Essence Pants,Legs,Epic
+Swirling Essence Robe,Chest,Epic
+Swirling Essence Shoes,Feet,Epic
+Visage of the Executioner,Head,Epic
+Visor of the Infernal Herald,Head,Epic

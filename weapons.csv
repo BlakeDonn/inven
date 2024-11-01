@@ -1,0 +1,142 @@
+Weapon Name,Type,Rarity
+Apprentice Daggers,Dagger,Common
+Apprentice Staff,Staff,Common
+Cantrip Staff,Staff,Common
+Driftwood Crossbows,Crossbow,Common
+Driftwood Longbow,Longbow,Common
+Driftwood Wand,Wand,Common
+Forged Iron Greatsword,Greatsword,Common
+Forged Iron Sword,Sword,Common
+Mystwood Crossbows,Crossbow,Common
+Mystwood Longbow,Longbow,Common
+Mystwood Wand,Wand,Common
+Petrified Longbow,Longbow,Common
+Petrified Wand,Wand,Common
+Prayer Staff,Staff,Common
+Reforged Daggers,Dagger,Common
+Reforged Greatsword,Greatsword,Common
+Reforged Sword,Sword,Common
+Ritual Staff,Staff,Common
+Sharpened Daggers,Dagger,Common
+Sharpened Greatsword,Greatsword,Common
+Sharpened Sword,Sword,Common
+Silk Crossbows,Crossbow,Common
+Sparring Greatsword,Greatsword,Common
+Sparring Sword,Sword,Common
+Sturdy Crossbow,Crossbow,Common
+Twin Daggers,Dagger,Common
+Wooden Longbow,Longbow,Common
+World Tree Wand,Wand,Common
+Acolyte Staff,Staff,Uncommon
+Arcane Staff,Staff,Uncommon
+Arena Sword,Sword,Uncommon
+Birchwood Arbalests,Crossbow,Uncommon
+Birchwood Longbow,Longbow,Uncommon
+Bloodletter Daggers,Dagger,Uncommon
+Charger Broadsword,Greatsword,Uncommon
+Divine Wand,Wand,Uncommon
+Guardian Warblade,Greatsword,Uncommon
+Hunter Longbow,Longbow,Uncommon
+Inquisition Rod,Wand,Uncommon
+Iron Dirks,Dagger,Uncommon
+Legionnaire Greatsword,Greatsword,Uncommon
+Manasteel Sword,Sword,Uncommon
+Moonglow Rod,Wand,Uncommon
+Moonglow Staff,Staff,Uncommon
+Parrying Stilettos,Dagger,Uncommon
+Pathfinder Blade,Sword,Uncommon
+Pathfinder Crossbows,Crossbow,Uncommon
+Repeating Crossbows,Crossbow,Uncommon
+Sniper Longbow,Longbow,Uncommon
+Stalwart Wand,Wand,Uncommon
+Standard Issue Claymore,Greatsword,Uncommon
+Standard Issue Longbow,Longbow,Uncommon
+Standard Issue Longsword,Sword,Uncommon
+Twisted Staff,Staff,Uncommon
+Utility Daggers,Dagger,Uncommon
+Watchkeeper Blade,Crossbow,Uncommon
+Blade of the Resistance,Sword,Rare
+Broadsword of the Resistance,Greatsword,Rare
+Crossbows of the Resistance,Crossbow,Rare
+Crossbows of Undead Piercing,Crossbow,Rare
+Daggers of Slaughtering,Dagger,Rare
+Daggers of the Resistance,Dagger,Rare
+Daggers of Undead Severing,Dagger,Rare
+Dark Ritualist Staff,Staff,Rare
+Dead Reckoning Greatsword,Greatsword,Rare
+Farshot Longbow,Longbow,Rare
+First Blood Longbow,Longbow,Rare
+Golem Chiseling Daggers,Dagger,Rare
+Golem Destruction Staff,Staff,Rare
+Golem Dismantler Crossbows,Crossbow,Rare
+Golem Grinding Greatsword,Greatsword,Rare
+Golem Impaler Longbow,Longbow,Rare
+Golem Shattering Sword,Sword,Rare
+Golem Sundering Wand,Wand,Rare
+Longbow of the Resistance,Longbow,Rare
+Longbow of Undead Skewering,Longbow,Rare
+Malevolent Staff,Staff,Rare
+Relentless Cleaver,Greatsword,Rare
+Resonance Blade,Sword,Rare
+Rod of Undead Dismissal,Wand,Rare
+Scepter of the Resistance,Wand,Rare
+Shadewalker Daggers,Dagger,Rare
+Staff of the Resistance,Staff,Rare
+Staff of Undead Banishment,Staff,Rare
+Steel Flurry Crossbows,Crossbow,Rare
+Sword of Striking,Sword,Rare
+Sword of Undead Vanquishing,Sword,Rare
+Treant Twig,Wand,Rare
+Viperstrike Arbalests,Crossbow,Rare
+Wand of Skyward Blessing,Wand,Rare
+Warblade of Undead Slaying,Greatsword,Rare
+Adentus's Gargantuan Greatsword,Greatsword,Epic
+Aelon's Rejuvenating Longbow,Longbow,Epic
+Ahzreil's Siphoning Sword,Sword,Epic
+Aridus's Gnarled Voidstaff,Staff,Epic
+Chernobog's Blade of Beheading,Sword,Epic
+Cornelius's Animated Edge,Sword,Epic
+Crossbows of Infinite Steel,Crossbow,Epic
+Darkslayer Daggers,Dagger,Epic
+Duke Magna's Fury Warblade,Greatsword,Epic
+Duke Magna's Provoking Warblade,Greatsword,Epic
+Excavator's Mysterious Scepter,Wand,Epic
+Greatsword of the Banshee,Greatsword,Epic
+Heroic Blade of the Resistance,Sword,Epic
+Heroic Broadsword of the Resistance,Greatsword,Epic
+Heroic Crossbows of the Resistance,Crossbow,Epic
+Heroic Daggers of the Resistance,Dagger,Epic
+Heroic Longbow of the Resistance,Longbow,Epic
+Heroic Scepter of the Resistance,Wand,Epic
+Heroic Staff of the Resistance,Staff,Epic
+Junobote's Juggernaut Warblade,Greatsword,Epic
+Karnix's Netherblade,Sword,Epic
+Karnix's Netherbow,Longbow,Epic
+Kowazan's Sunflare Crossbows,Crossbow,Epic
+Kowazan's Twilight Daggers,Dagger,Epic
+Lequirus's Coveted Tome,Wand,Epic
+Lequirus's Wicked Thorns,Dagger,Epic
+Longbow of the World Tree,Longbow,Epic
+Malakar's Energizing Crossbows,Crossbow,Epic
+Minezerok's Daggers of Crippling,Dagger,Epic
+Morokai's Greatblade of Corruption,Greatsword,Epic
+Nirma's Sword of Echoes,Sword,Epic
+Queen Bellandir's Hivemind Staff,Staff,Epic
+Queen Bellandir's Languishing Blade,Sword,Epic
+Queen Bellandir's Toxic Spine Throwers,Crossbow,Epic
+Rex Chimaerus's Crossbows,Crossbow,Epic
+Rex Chimaerus's Fangs,Dagger,Epic
+Sacred Manuscript,Wand,Epic
+Shaikal's Deepmind Longbow,Longbow,Epic
+Shaikal's Mindfire Scepter,Wand,Epic
+Staff of Lucid Light,Staff,Epic
+Staff of the Umbramancer,Staff,Epic
+Stormbringer Crossbows,Crossbow,Epic
+Talus's Crystalline Staff,Staff,Epic
+Tevent's Arc of Wailing Death,Longbow,Epic
+Tevent's Fangs of Fury,Dagger,Epic
+Tevent's Grasp of Withering,Wand,Epic
+Tevent's Warblade of Despair,Greatsword,Epic
+Tome of Proximate Remedy,Wand,Epic
+Toublek's Deathmark Longbow,Longbow,Epic
+Toublek's Shattering Quarterstaff,Staff,Epic
